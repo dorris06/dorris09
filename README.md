@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dorris09
+- 👋 Hi, I’m dorris
 - 👀 I’m interested in programming, music, math and freelancing.
 - 🌱 I’m currently learning logic programming.
 - 💞️ I’m looking to collaborate on programmer teachers.
